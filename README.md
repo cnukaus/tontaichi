@@ -2,6 +2,12 @@
 
 It will read user's pattern, and display relevant mood.
 
+# smart contract
+https://docs.ton.org/develop/dapps/asset-processing/metadata
+
+# parsing of image
+https://stackblitz.com/edit/ton-onchain-nft-parser?file=src%2Fmain.ts
+
 rendering from ouroboros
 
 A light `shadow-cljs` template to create generative art with [quil](http://quil.info/) for the [fxhash](https://www.fxhash.xyz/) platform. 
