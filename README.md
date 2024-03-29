@@ -1,4 +1,8 @@
-# ouroboros
+# A smart contract project based on TON
+
+It will read user's pattern, and display relevant mood.
+
+rendering from ouroboros
 
 A light `shadow-cljs` template to create generative art with [quil](http://quil.info/) for the [fxhash](https://www.fxhash.xyz/) platform. 
 
